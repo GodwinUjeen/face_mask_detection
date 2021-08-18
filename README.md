@@ -1,6 +1,8 @@
-# face_mask_detection
+# Face Mask Detection
 
 A Flutter application that detects  whether a person is wearing  the face mask or not, developed using Tflite.
+
+# Package
 
 - [tflite](https://pub.dev/packages/tflite)
 
