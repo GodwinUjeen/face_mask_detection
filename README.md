@@ -18,7 +18,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Sample Screenshots
-<br>
 <img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
 <img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
 <img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
