@@ -18,9 +18,9 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Sample Screenshots
-<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="420" width="240"> &nbsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="400" width="220"> &nbsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="400" width="220"> &nbsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="400" width="220"> &nbsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/Todo-App/blob/master/screenshots/android.png" height="400" width="220"> &nbsp;&emsp;
 
 
